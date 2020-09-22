@@ -1,4 +1,6 @@
-[Ссылка на проект]()
+[Ссылка на проект](https://ivansergeev1.github.io/ahj-dom2/)
+
+[![Build status](https://ci.appveyor.com/api/projects/status/s8goiv1yvti43obq?svg=true)](https://ci.appveyor.com/project/IvanSergeev1/ahj-dom2)
 
 
 
